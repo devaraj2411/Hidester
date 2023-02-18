@@ -1,0 +1,6 @@
+@tailwind base;
+@layer base {
+  body {
+    font-family: work sans, sans-serif;
+  }
+}
